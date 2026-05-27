@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_advbasic_quiz_app",
+            "cwd": "flutter_advbasic_quiz_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_advbasic_quiz_app (profile mode)",
+            "cwd": "flutter_advbasic_quiz_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_advbasic_quiz_app (release mode)",
+            "cwd": "flutter_advbasic_quiz_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_hello_world",
+            "cwd": "flutter_hello_world",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_hello_world (profile mode)",
+            "cwd": "flutter_hello_world",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_hello_world (release mode)",
+            "cwd": "flutter_hello_world",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
